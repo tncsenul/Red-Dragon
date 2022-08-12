@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️මොකද්ද වෙන්න ඕනි?😉` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -30,7 +30,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.ownername = "🍁අති ගරු සයිබර් සෝල්🍁❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -44,16 +44,16 @@ global.antibad = "false" // To remove bad word senders
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "true" // bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.owner = ['+94 701358330']
+global.ownertag = '+94 701358330' //your tag number
+global.botname = '🍁අතිගරු සයිබර් සෝල් උතුමානන්🍁' //ur bot name
+global.packname = "සයිබර් සෝල්🍁" // sticker packname
+global.author = "🍁අති ගරු සයිබර් සෝල්🍁" // sticker author
+global.dragonemoji = '❤️🍁' // Menu emoji
+global.footer = '[ 🍁◉අතිගරු සයිබර් සෝල්🍁 ]' //
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ YOUTUBE ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://youtube.com/channel/UCnnwnrPmafnyK-qaWf3ngMg' //Change Your Button's URL
 
 //database
 global.premium = ['+380944814219'] //ur premium numbers
@@ -66,12 +66,12 @@ global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
     admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
+    botAdmin: 'ඇඩ්මින් දීප්ම්😥',
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '👉❤️👈Pleas Wait...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
